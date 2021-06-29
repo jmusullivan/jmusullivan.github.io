@@ -10,3 +10,5 @@ redirect_from:
 
 ## About me
 
+I am a physics PhD student at Yale University working in the area of Topological Phases of Matter
+
