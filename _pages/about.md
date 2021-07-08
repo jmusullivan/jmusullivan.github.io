@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a physics PhD student at Yale University working in the area of Topological Phases of Matter
+I am a physics PhD student at Yale University working in the area of Topological Phases of Matter. And I added a photo
 
 This is a test photo
 ![Joe in SF](IMG_9284.JPG)
