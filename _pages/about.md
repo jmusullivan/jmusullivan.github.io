@@ -14,3 +14,6 @@ I am a physics PhD student at Yale University working in the area of Topological
 
 This is a test photo
 ![](IMG_9284.JPG = 200x150)
+
+
+<img src="IMG_9284.JPG" alt="drawing" width="200"/>
