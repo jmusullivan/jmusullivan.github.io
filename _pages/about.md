@@ -18,6 +18,4 @@ I am a quantum physicist [working](https://scholar.google.com/citations?user=fgj
 
 Currently, I am a Postdoctoral researcher at the [The Stewart Blusson Quantum Matter Institute at UBC](https://qmi.ubc.ca/). Before that I was PhD student at Yale University working under the supervision of Meng Cheng.
 
-
-
-<img src="./IMG_9284.JPG" alt="portrait" width="400" />
+<img src="/_pages/IMG_9284.JPG" alt="portrait" width="400" />
