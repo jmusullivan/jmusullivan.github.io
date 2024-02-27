@@ -20,4 +20,4 @@ Currently, I am a Postdoctoral researcher at the [The Stewart Blusson Quantum Ma
 
 
 
-<img src="IMG_9284.JPG" alt="drawing" width="400"/>
+<img src="IMG_9284.JPG" alt="drawing" width="400" />
